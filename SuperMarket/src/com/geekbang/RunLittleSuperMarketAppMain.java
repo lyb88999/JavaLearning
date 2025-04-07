@@ -6,6 +6,9 @@ import com.geekbang.supermarket.Merchandise;
 
 import java.util.Scanner;
 
+/**
+ * @author yuboli
+ */
 public class RunLittleSuperMarketAppMain {
     public static void main(String[] args) {
         LittleSuperMarket littleSuperMarket = new LittleSuperMarket();

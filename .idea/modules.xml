@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLearning.iml" filepath="$PROJECT_DIR$/.idea/JavaLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnMath/LearnMath.iml" filepath="$PROJECT_DIR$/LearnMath/LearnMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarket/SuperMarket.iml" filepath="$PROJECT_DIR$/SuperMarket/SuperMarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarketV2/SuperMarketV2.iml" filepath="$PROJECT_DIR$/SuperMarketV2/SuperMarketV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code005/code005.iml" filepath="$PROJECT_DIR$/code005/code005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code007/code007.iml" filepath="$PROJECT_DIR$/code007/code007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code013/code013.iml" filepath="$PROJECT_DIR$/code013/code013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code014/code014.iml" filepath="$PROJECT_DIR$/code014/code014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code015/code015.iml" filepath="$PROJECT_DIR$/code015/code015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code017/code017.iml" filepath="$PROJECT_DIR$/code017/code017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code018/code018.iml" filepath="$PROJECT_DIR$/code018/code018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code019/code019.iml" filepath="$PROJECT_DIR$/code019/code019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeClass/codeClass.iml" filepath="$PROJECT_DIR$/codeClass/codeClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticCodeBlock/staticCodeBlock.iml" filepath="$PROJECT_DIR$/staticCodeBlock/staticCodeBlock.iml" />
+    </modules>
+  </component>
+</project>

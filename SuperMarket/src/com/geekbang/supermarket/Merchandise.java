@@ -7,6 +7,7 @@ public class Merchandise {
     public double soldPrice;
     public double purchasePrice;
 
+
     @Override
     public String toString() {
         return "Merchandise{" +
