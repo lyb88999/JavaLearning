@@ -3,7 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaLearning.iml" filepath="$PROJECT_DIR$/.idea/JavaLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnForLoop/LearnForLoop.iml" filepath="$PROJECT_DIR$/LearnForLoop/LearnForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnInstanceOf/LearnInstanceOf.iml" filepath="$PROJECT_DIR$/LearnInstanceOf/LearnInstanceOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnMain/LearnMain.iml" filepath="$PROJECT_DIR$/LearnMain/LearnMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnMath/LearnMath.iml" filepath="$PROJECT_DIR$/LearnMath/LearnMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnObject/LearnObject.iml" filepath="$PROJECT_DIR$/LearnObject/LearnObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnReflection/LearnReflection.iml" filepath="$PROJECT_DIR$/LearnReflection/LearnReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnStringBuilder/LearnStringBuilder.iml" filepath="$PROJECT_DIR$/LearnStringBuilder/LearnStringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuperMarket/SuperMarket.iml" filepath="$PROJECT_DIR$/SuperMarket/SuperMarket.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuperMarketV2/SuperMarketV2.iml" filepath="$PROJECT_DIR$/SuperMarketV2/SuperMarketV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/code005/code005.iml" filepath="$PROJECT_DIR$/code005/code005.iml" />
