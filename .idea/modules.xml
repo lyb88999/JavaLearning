@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaLearning.iml" filepath="$PROJECT_DIR$/.idea/JavaLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnForLoop/LearnForLoop.iml" filepath="$PROJECT_DIR$/LearnForLoop/LearnForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnImpl/LearnImpl.iml" filepath="$PROJECT_DIR$/LearnImpl/LearnImpl.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnInstanceOf/LearnInstanceOf.iml" filepath="$PROJECT_DIR$/LearnInstanceOf/LearnInstanceOf.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnMain/LearnMain.iml" filepath="$PROJECT_DIR$/LearnMain/LearnMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/LearnMath/LearnMath.iml" filepath="$PROJECT_DIR$/LearnMath/LearnMath.iml" />

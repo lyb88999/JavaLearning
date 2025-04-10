@@ -5,6 +5,7 @@ public class Person {
     public int age;
     public String gender;
     public static String STATIC_VARIABLE = "Common Person";
+    private String hobby;
     public Person() {
     }
 
@@ -38,12 +39,34 @@ public class Person {
         this.gender = gender;
     }
 
+    public static String getStaticVariable() {
+        return STATIC_VARIABLE;
+    }
+
+    public static void setStaticVariable(String staticVariable) {
+        STATIC_VARIABLE = staticVariable;
+    }
+
+    public String getHobby() {
+        return hobby;
+    }
+
+    public void setHobby(String hobby) {
+        this.hobby = hobby;
+    }
+
+
     @Override
     public String toString() {
         return "Person{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", gender='" + gender + '\'' +
+                ", hobby='" + hobby + '\'' +
                 '}';
+    }
+
+    private void privateMethod(){
+        System.out.println("privateMethod");
     }
 }
